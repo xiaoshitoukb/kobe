@@ -11,5 +11,6 @@ def sushu(n):
         else:
             print(i, 'zhishu')
 
+if __name__ == '__main__':
 
-sushu(100)
+    sushu(100)
