@@ -9,7 +9,7 @@ def sushu(n):
                 #print(i, 'not zhishu')
                 break
         else:
-            print(i, 'zhishu')
+            print(i, '素数')
 
 if __name__ == '__main__':
 
