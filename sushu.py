@@ -1,6 +1,7 @@
 
 #print sushu
-#author kobe.yang
+# author kobe.yang
+
 
 def sushu(n):
     for i in range(2, n):
@@ -10,6 +11,7 @@ def sushu(n):
                 break
         else:
             print(i, '素数')
+
 
 if __name__ == '__main__':
 
