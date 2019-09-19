@@ -1,3 +1,3 @@
 import requests
-res = requests.get('https://www.baidu.com')
-res.json()
+res = requests.get('http://www.baidu.com')
+print(res)
